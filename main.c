@@ -14,7 +14,7 @@
 #include "funciones.h"
 
 
-/*este es el fichero principal donde encontramos la lista de empleados con el tamaï¿½o maximo 
+/*este es el fichero principal donde encontramos la lista de empleados con el tamaño maximo 
 numero de empleados y luego ejecutaremos un bucle do while hasta que salgamos del programa
  * 
  */
